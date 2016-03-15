@@ -1,0 +1,5 @@
+nb1_f328 =  	63.605547
+INFO:root:Mismatch in sample #3: predicted: 1, but labeled as: 3
+I know that you began as a journalist making documentaries. And I read a fascinating piece about as you got into feature films you had to learn kind of all of the techniques and language of feature filmmaking.
+======================
+

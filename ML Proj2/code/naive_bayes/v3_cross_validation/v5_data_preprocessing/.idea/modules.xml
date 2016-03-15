@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../v4_naive_bayes/.idea/v4_naive_bayes.iml" filepath="$PROJECT_DIR$/../v4_naive_bayes/.idea/v4_naive_bayes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/v5_data_preprocessing.iml" filepath="$PROJECT_DIR$/.idea/v5_data_preprocessing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../v6_naive2/.idea/v6_naive2.iml" filepath="$PROJECT_DIR$/../v6_naive2/.idea/v6_naive2.iml" />
+    </modules>
+  </component>
+</project>
